@@ -1,4 +1,4 @@
-<h1 align="">Hi, I'm David Micah-Daniles</h1>
+<h1 align="">Hi, I'm David Micah-Daniels</h1>
                                  
  I'm a frontend developer, highly skilled in frontend development React JSX, and other frontend technologies. I have intrest in open source communities and developer's meetup... I'm a team player with a high leadership quality 
  
