@@ -9,13 +9,12 @@
 - Location: Nigeria
 - JavaScript Guy
 - Phone: +234 (0) 703 532 6207
-- X/Twitter: https://x.com/Davidmicdan_
 - Email: micahdanielsdavid2007@gmail.com
 
 
 
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -54,19 +53,6 @@
 
 <h1></h1>
 
-## 〽️ My Stats
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=davidmicahdaniels&text_color=ffffff&bg_color=000000&hide_border=true" alt="davidmicahdaniels" />
-
-</p>
-
-
-<h1></h1>
-
-<p align="center">
-  <img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=davidmicahdaniels&show_icons=true&locale=en&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="davidmicahdaniels" />
-</p>
 
 
 ### I'm open to Projects... Contact Me!
