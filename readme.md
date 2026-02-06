@@ -1,11 +1,11 @@
 <h1 align="">Hi, I'm David Micah-Daniels</h1>
                                  
- I'm a frontend developer, highly skilled in frontend development React JSX, and other frontend technologies. I have intrest in open source communities and developer's meetup... I'm a team player with a high leadership quality 
- 
- I am a frontend developer with over 3 years of experience in developing and delivering web-based projects. My expertise spans both web and software development, and my strong ability to collaborate effectively within a team distinguishes me as a professional in the field.
+I am a frontend developer with over 3 years of experience in building dynamic web applications and websites. My expertise lies in creating intuitive and user-friendly interfaces that enhance user experiences while maintaining modern design standards and best practices.
+
+I have had the opportunity to work with diverse teams on a variety of projects, contributing as both a team member and a team lead. These experiences have enhanced my communication skills, and ability to ensure successful project execution from start to finish.
 
 
-## 🙎‍♂️ About Me
+## About Me
 - Location: Nigeria
 - JavaScript Guy
 - Phone: +234 (0) 703 532 6207
@@ -48,7 +48,7 @@
  
 </p>
 
-## 📈 My Github Overview
+## My Github Overview
 <p align="center"> <a href="http://www.github.com/davidmicahdaniels"><img src="https://github-readme-streak-stats.herokuapp.com/?user=davidmicahdaniels&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
 <h1></h1>
